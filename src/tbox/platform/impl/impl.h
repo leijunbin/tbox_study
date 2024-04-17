@@ -1,0 +1,5 @@
+#ifndef TB_PLATFORM_IMPL_H
+#define TB_PLATFORM_IMPL_H
+
+
+#endif // TB_PLATFORM_IMPL_H
